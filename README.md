@@ -17,7 +17,7 @@ Because I use Apples AirPods I added a function to have 4 Buttons instead of 2. 
 ## How to use
 * Put your music in the default directory **Music**
 * You can add subfolders to generate *playlists*
-* To sort the songs rename them like a playlist (i.e 01_song1, 02_song2)
+* To sort the songs rename them like a playlist (i.e 01_song1.mp3, 02_song2.mp3)
 * After 5 minutes not listening to music the headset buttons will not work anymore. You have to open the app and touch a button in the app to reactivate the headset buttons. This is no error, it saves battery life.
 
 ## Todo and known issues
