@@ -1,7 +1,5 @@
 # Amazfit-Music-Player
 
-![amazfit-music-player](https://user-images.githubusercontent.com/19289439/46221779-aa7d3d80-c34e-11e8-9b84-f78be819936a.jpg)
-
 ## Overview
 I really like my Amazfit Pace smartwatch and love the feature to listen music without my smartphone. It's really cool to use it while running or doing other sports where You leave Your phone at home. But the default music player has a problem. There is no logic how the music is sorted. You can rename them and put them in different folders, the watch will simply ignore that and list the songs randomly. So I decided to create my own music player.
 
@@ -28,3 +26,4 @@ Because I use Apples AirPods I added a function to have 4 Buttons instead of 2. 
 * Directories within a subfolder will not be listed - the songs will be add to the parent folder playlist
 * Add a bar for the volume
 
+![amazfit-music-player](https://user-images.githubusercontent.com/19289439/46221779-aa7d3d80-c34e-11e8-9b84-f78be819936a.jpg)
