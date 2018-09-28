@@ -8,6 +8,7 @@ I really like my Amazfit Pace smartwatch and love the feature to listen music wi
 * Choose a folder to play only music within it
 * Play all mp3 files on the watch sorted by name
 * Choose a playmode: default, repeat all, repeat one, random
+* Use the headset buttons to control music
 * set volume (0 - 30)
 
 ### Apple AirPods Support
@@ -17,7 +18,6 @@ Because I use Apples AirPods I added a function to have 4 Buttons instead of 2. 
 * Put your music in the default directory **Music**
 * You can add subfolders to generate *playlists*
 * To sort the songs rename them like a playlist (i.e 01_song1, 02_song2)
-* Use the headset buttons to control music
 * After 5 minutes not listening to music the headset buttons will not work anymore. You have to open the app and touch a button in the app to reactivate the headset buttons. This is no error, it saves the battery.
 
 ## Todo and known issues
